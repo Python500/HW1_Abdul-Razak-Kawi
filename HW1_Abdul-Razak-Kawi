@@ -64,9 +64,9 @@
 
                 <label for="country">Country</label>
                 <select id="country" name="country">
-              <option value="Ghana">Ghana</option>
-              <option value="Nigeria">Nigeria</option>
-              <option value="Togo">Togo</option>
+              <option value="Accra">Accra</option>
+              <option value="Tamale">Tamale</option>
+              <option value="Kumasi">Kumasi</option>
             </select>
 
                 <label for="subject">Subject</label>
